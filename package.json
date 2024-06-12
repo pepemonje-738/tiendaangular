@@ -1,11 +1,12 @@
 {
   "name": "e-commerce-angular-node",
   "version": "0.0.0",
+  
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
+    "start": "npm start",
+    "build": "npm run build",
+    "test": "npm run test",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
