@@ -4,9 +4,9 @@
   
   "scripts": {
     "ng": "ng",
-    "start": "npm start",
-    "build": "npm run build",
-    "test": "npm run test",
+    "start": "npm start --force",
+    "build": "npm run build --force",
+    "test": "npm run test ",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
